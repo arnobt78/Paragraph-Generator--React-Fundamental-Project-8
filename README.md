@@ -1,8 +1,10 @@
+<img width="677" alt="Screenshot 2025-02-09 at 14 55 47" src="https://github.com/user-attachments/assets/5f6dcc71-c3ca-4686-a61e-6b5c69a383ff" />
+
 ## Lorem Ipsum Generator - React Fundamental Project 8
 
 This project is a simple React application that generates random paragraphs of text. It allows users to specify the number of paragraphs they want to generate.
 
-**Online Live:**
+**Online Live:** https://paragraph-generator-arnob.netlify.app/
 
 ## Getting Started
 
