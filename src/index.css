@@ -1,4 +1,5 @@
 /* ============= GLOBAL CSS =============== */
+/* Reset and shared design tokens used across the app (buttons, forms, etc.) */
 
 *,
 ::after,
@@ -12,6 +13,7 @@ html {
   font-size: 100%;
 } /*16px*/
 
+/* Design tokens: change these to theme the whole app */
 :root {
   /* colors */
   --primary-100: #d1fae5;
@@ -253,6 +255,9 @@ ul {
   margin-top: 1rem;
 }
 /* ============= PROJECT CSS =============== */
+/* Styles specific to the paragraph generator (section, form, output list) */
+
+/* Wrapper for the main generator UI; centered, responsive width */
 .section-center {
   width: 80vw;
   max-width: 40rem;
@@ -262,6 +267,7 @@ ul {
   text-transform: uppercase;
   text-align: center;
 }
+/* Form row: label + number input + generate button, flexbox-aligned */
 .lorem-form {
   text-transform: capitalize;
   letter-spacing: var(--letterSpacing);
@@ -289,6 +295,7 @@ ul {
   align-self: stretch;
 }
 
+/* Generated paragraphs: readable line-height and spacing between items */
 .lorem-text p {
   line-height: 2;
   margin-bottom: 2rem;
