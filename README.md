@@ -9,7 +9,7 @@ A modern, interactive React application that generates a customizable number of 
 
 - **Live Demo:** [https://create-paragraph.vercel.app/](https://create-paragraph.vercel.app/)
 
-<img width="1131" height="941" alt="Screenshot 2026-03-11 at 15 03 23" src="https://github.com/user-attachments/assets/b508a770-a164-44fc-a867-f244712f10bc" />
+![Screenshot 2026-03-11 at 15 03 23](https://github.com/user-attachments/assets/b508a770-a164-44fc-a867-f244712f10bc)
 
 ## Table of Contents
 
